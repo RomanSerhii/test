@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 1
+=======
+dfshsfdhf
+>>>>>>> 00d624bc883d4775704b51f6c781f4eaa3bc5873
+
+sgasg
