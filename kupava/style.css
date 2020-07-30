@@ -1,8 +1,4 @@
 /* reset */
-ul {
-  margin: 0;
-  padding: 0;
-}
 :focus,
 :active {
   outline: none;
@@ -24,9 +20,6 @@ button::-moz-focus-inner {
 }
 a:hover {
   text-decoration: none;
-}
-ul li {
-  list-style: none;
 }
 
 /*main*/
