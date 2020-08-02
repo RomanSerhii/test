@@ -61,11 +61,6 @@ body {
   padding-top: 104px;
 }
 @media (max-width: 460px) {
-  .header-wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: end;
-  }
   .header-logo {
     margin-left: 5px;
   }
